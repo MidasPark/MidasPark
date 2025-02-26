@@ -5,10 +5,10 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring+Boot&logoColor=FFFFFF)
-![Vue.js](https://img.shields.io/badge/Vue.js-222222?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
 
 ------
 ### Frameworks
+![Vue.js](https://img.shields.io/badge/Vue.js-222222?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
 ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)
 ![CodeIgniter](https://img.shields.io/static/v1?style=for-the-badge&message=CodeIgniter&color=EF4223&logo=CodeIgniter&logoColor=FFFFFF&label=)
